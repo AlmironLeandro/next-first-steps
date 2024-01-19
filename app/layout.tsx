@@ -4,6 +4,8 @@ import './globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
+
+
 export const metadata: Metadata = {
   title: "Leandro's Home Page",
   description: 'Generated for Vercell by @leandro',  
